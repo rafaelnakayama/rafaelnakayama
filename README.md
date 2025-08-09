@@ -23,4 +23,5 @@
 
 ## 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-nakayama-data)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelnakayama&show_icons=true&theme=dracula&include_all_commits=true)
+
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:RafaelNakayama2003@gmail.com)
