@@ -1,9 +1,9 @@
 # Greetings, visitor!
 
+💻 Computer Science Student  
+📈 Focused on **Data Analytics** and **Business Intelligence**  
+🛠 Exploring **Python**, **Power BI**, and **SQL**  
 
-**Computer Science Student**  
-Focused on **Data Analytics** and **Business Intelligence**  
-Exploring **Python**, **Power BI**, and **SQL**  
 ---
 
 ## Technologies & Tools
