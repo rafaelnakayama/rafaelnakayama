@@ -17,10 +17,6 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelnakayama&show_icons=true&theme=dracula)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnakayama&layout=compact&theme=dracula)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rafaelnakayama&theme=dracula)
 
 ---
