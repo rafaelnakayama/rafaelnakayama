@@ -16,9 +16,7 @@
 
 ---
 
-## GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rafaelnakayama&theme=calm)
+[![Rafael's GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafaelnakayama&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ---
 
