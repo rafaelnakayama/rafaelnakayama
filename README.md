@@ -1,7 +1,10 @@
 # Greetings, visitor!
 
 💻 Computer Science Student, Focused on **Data Analytics** and **Business Intelligence** 
-🛠 Studying mainly **Python for data analysis**, **Power BI**, and **SQL**
+
+🛠 I am currently studying **Python for data analysis**, **Power BI**, and **SQL** on my own, and other CS topics at graduation.
+
+📈 You can find some of the dashboards i create on my [Lovable Porfolio](https://data-analytics-portfolio-rafael-nakayama.lovable.app/)
 
 ---
 
