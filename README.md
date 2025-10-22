@@ -1,10 +1,11 @@
 # Greetings, visitor!
 
-💻 Computer Science Student, Focused on **Data Analytics** and **Business Intelligence** 
+Computer Science student interested in everything related to **Data**, with a growing focus on **Data Engineering**.
+I'm currently studying **Python** and working on projects that involve building **data structures** and **processing pipelines**, using libraries such as **pandas** and **NumPy**.
+My next step is to develop my skills in **SQL**.
+I also explore other areas of Computer Science as part of my degree.
 
-🛠 I am currently studying **Python for data analysis**, **Power BI**, and **SQL** on my own, and other CS topics at graduation.
-
-📈 You can find some of the dashboards i create on my [Lovable Porfolio](https://data-analytics-portfolio-rafael-nakayama.lovable.app/)
+Earlier, I created a few **Power BI dashboards**, which you can find [here](https://data-analytics-portfolio-rafael-nakayama.lovable.app/)
 
 ---
 
